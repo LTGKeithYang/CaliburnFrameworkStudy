@@ -1,0 +1,8 @@
+E:\ToolsSourceCode\Caliburn.Micro\bin\portable-core\Debug\Caliburn.Micro.Platform.Core.dll
+E:\ToolsSourceCode\Caliburn.Micro\bin\portable-core\Debug\Caliburn.Micro.Platform.Core.pdb
+E:\ToolsSourceCode\Caliburn.Micro\bin\portable-core\Debug\Caliburn.Micro.Platform.Core.xml
+E:\ToolsSourceCode\Caliburn.Micro\obj\portable-core\Debug\Caliburn.Micro.Platform.Core.csprojAssemblyReference.cache
+E:\ToolsSourceCode\Caliburn.Micro\obj\portable-core\Debug\Caliburn.Micro.Platform.Core.csproj.CoreCompileInputs.cache
+E:\ToolsSourceCode\Caliburn.Micro\obj\portable-core\Debug\Caliburn.Micro.Platform.Core.csproj.CopyComplete
+E:\ToolsSourceCode\Caliburn.Micro\obj\portable-core\Debug\Caliburn.Micro.Platform.Core.dll
+E:\ToolsSourceCode\Caliburn.Micro\obj\portable-core\Debug\Caliburn.Micro.Platform.Core.pdb

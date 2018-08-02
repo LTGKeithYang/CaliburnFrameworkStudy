@@ -1,0 +1,1 @@
+F:\Caliburn.Micro\samples\setup\Setup.WPF\bin\Debug\Setup.WPF.exe.config

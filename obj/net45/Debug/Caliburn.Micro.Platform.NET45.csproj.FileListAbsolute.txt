@@ -1,0 +1,8 @@
+E:\ToolsSourceCode\Caliburn.Micro\bin\net45\Debug\Caliburn.Micro.Platform.xml
+E:\ToolsSourceCode\Caliburn.Micro\bin\net45\Debug\Caliburn.Micro.Platform.dll
+E:\ToolsSourceCode\Caliburn.Micro\bin\net45\Debug\Caliburn.Micro.Platform.pdb
+E:\ToolsSourceCode\Caliburn.Micro\obj\net45\Debug\Caliburn.Micro.Platform.NET45.csprojAssemblyReference.cache
+E:\ToolsSourceCode\Caliburn.Micro\obj\net45\Debug\Caliburn.Micro.Platform.NET45.csproj.CoreCompileInputs.cache
+E:\ToolsSourceCode\Caliburn.Micro\obj\net45\Debug\Caliburn.Micro.Platform.NET45.csproj.CopyComplete
+E:\ToolsSourceCode\Caliburn.Micro\obj\net45\Debug\Caliburn.Micro.Platform.dll
+E:\ToolsSourceCode\Caliburn.Micro\obj\net45\Debug\Caliburn.Micro.Platform.pdb

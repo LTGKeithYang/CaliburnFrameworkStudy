@@ -1,0 +1,7 @@
+E:\ToolsSourceCode\Caliburn.Micro\bin\portable\Debug\Caliburn.Micro.XML
+E:\ToolsSourceCode\Caliburn.Micro\bin\portable\Debug\Caliburn.Micro.dll
+E:\ToolsSourceCode\Caliburn.Micro\bin\portable\Debug\Caliburn.Micro.pdb
+E:\ToolsSourceCode\Caliburn.Micro\obj\portable\Debug\Caliburn.Micro.csproj.CoreCompileInputs.cache
+E:\ToolsSourceCode\Caliburn.Micro\obj\portable\Debug\Caliburn.Micro.dll
+E:\ToolsSourceCode\Caliburn.Micro\obj\portable\Debug\Caliburn.Micro.pdb
+E:\ToolsSourceCode\Caliburn.Micro\obj\portable\Debug\Caliburn.Micro.csprojAssemblyReference.cache

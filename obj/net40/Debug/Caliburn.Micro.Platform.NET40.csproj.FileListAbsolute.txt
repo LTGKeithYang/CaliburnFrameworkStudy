@@ -1,0 +1,2 @@
+E:\ToolsSourceCode\Caliburn.Micro\obj\net40\Debug\Caliburn.Micro.Platform.NET40.csprojAssemblyReference.cache
+E:\ToolsSourceCode\Caliburn.Micro\obj\net40\Debug\Caliburn.Micro.Platform.NET40.csproj.CoreCompileInputs.cache
